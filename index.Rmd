@@ -19,7 +19,7 @@ output:
 # Intro {.sidebar}
 
 This dashboard covers the materials for the course introducing R. Course held in Vietnam, May 8 - May 12, 2023.
-
+XXX
 ---
 
 Instructors: 
